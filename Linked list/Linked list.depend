@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733913495 source:f:\iti-cpd\data-structure\linked_list\linked list\src\nodes.cpp
+	"Nodes.h"
+
+1733913494 f:\iti-cpd\data-structure\linked_list\linked list\include\nodes.h
+
+1733924583 source:f:\iti-cpd\data-structure\linked_list\linked list\main.cpp
+	<iostream>
+	<stdexcept>
+
